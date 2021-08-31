@@ -1,2 +1,3 @@
 # nand2tetris
-"build a modern computer from first principles"
+solutions for and implentations of projects from nand2tetris
+
